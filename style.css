@@ -10,25 +10,28 @@ header {
     background-color: #ebebeb;
     height: 50px;
     width: 100%;
+    line-height: 25px;
     text-align: center;
+    margin-top: 10px;
 }
 nav {
     background-color: #ebebeb;
     height: 50px;
     width: 100%;
+    line-height: 25px;
     text-align: center;
+    margin-top: 10px;
 }
 .container {
-    
     position: relative;
 }
 section {
-    
     background-color: #ebebeb;
     height: 280px;
     width: 495px;
     position: relative;
     margin-right: 10px;
+    line-height: 25px;
     text-align: center;
 }
 article {
@@ -40,20 +43,19 @@ article {
     top: 20px;
     left: 0px;
     margin: 20px;
-    text-align: center;
 }
 article h1 {
-    background-color: #ebebeb;
     height:50px;
+    background-color: #ebebeb;
     color: #777;
     margin: 50px 20px 10px 20px;
-    text-align: center;
 }
 article p {
     background-color: #ebebeb;
     height: 50px;
     color: #777;
-    margin: 10px 20px 10px 20px;
+    margin: 10px 20px 5px 20px;
+    line-height: 25px;
     text-align: center;
 }
 aside {
@@ -64,16 +66,18 @@ aside {
     position: absolute;
     right: 0px;
     top: 0px;
+    line-height: 25px;
     text-align: center;
 }
 footer {
-    height: 50px;
+    height: 100px;
     width: 100%;
     position:relative;
     bottom:0;
     left:0;
     background-color: #ebebeb;
     margin-top: 20px;
+    line-height: 35px;
     text-align: center;
 }
 
