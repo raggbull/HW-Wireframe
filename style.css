@@ -7,17 +7,17 @@ body {
     margin:0 auto;
 }
 header {
-    background-color: #ebebeb;
     height: 50px;
     width: 100%;
+    background-color: #ebebeb;
     line-height: 25px;
     text-align: center;
     margin-top: 10px;
 }
 nav {
-    background-color: #ebebeb;
     height: 50px;
     width: 100%;
+    background-color: #ebebeb;
     line-height: 25px;
     text-align: center;
     margin-top: 10px;
@@ -26,9 +26,9 @@ nav {
     position: relative;
 }
 section {
-    background-color: #ebebeb;
     height: 280px;
     width: 495px;
+    background-color: #ebebeb;
     position: relative;
     margin-right: 10px;
     line-height: 25px;
@@ -44,24 +44,24 @@ article {
     left: 0px;
     margin: 20px;
 }
-article h1 {
+Article h1, h2, h3 {
     height:50px;
     background-color: #ebebeb;
     color: #777;
     margin: 50px 20px 10px 20px;
 }
-article p {
-    background-color: #ebebeb;
+Article p {
     height: 50px;
+    background-color: #ebebeb;
     color: #777;
     margin: 10px 20px 5px 20px;
     line-height: 25px;
     text-align: center;
 }
-aside {
-    background-color: #ebebeb;
+Aside {
     height: 280px;
     width:445px;
+    background-color: #ebebeb;
     float:right;
     position: absolute;
     right: 0px;
@@ -69,7 +69,7 @@ aside {
     line-height: 25px;
     text-align: center;
 }
-footer {
+Footer {
     height: 100px;
     width: 100%;
     position:relative;
